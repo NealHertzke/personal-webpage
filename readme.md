@@ -1,6 +1,6 @@
 # Project 
-User Centric Frontend Development Milestone Project
-(basis for my Portfolio website)
+## User Centric Frontend Development Milestone Project
+  (basis for my Portfolio website)
 
 ### Getting Started
 Run the project1.html file using c9, It will link you to the homepage directly.
